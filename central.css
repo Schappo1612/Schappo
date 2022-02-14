@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(to right,rgb(2, 2, 97), rgb(83, 0, 83));
+  }
+.div{
+  white-space: nowrap; 
+  width: 200px; 
+  border: 1px solid #94a3f5;
+  overflow: hidden;
+  text-overflow: clip;
+  display: flex;
+   justify-content: center;
+  color: white;
+  
+  
+
+}
+
+.input{
+  white-space: nowrap; 
+  width: 200px; 
+  border: 1px solid #94a3f5;
+  overflow: hidden;
+  text-overflow: clip;
+  display: flex;
+   justify-content: center;
+
+}
+
+  .titulo{
+    color: white;
+    
+    display: flex;
+   justify-content: center;
+  
+  
+  }
+
+  .subtitulo{
+    color: white;
+  
+  }
+
+  .button {
+    background-color: #2e2e2e; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 80px;
+    cursor: pointer;
+  }
